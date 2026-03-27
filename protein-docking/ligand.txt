@@ -1,0 +1,3 @@
+D1.pdbqt
+D5.pdbqt
+N18.pdbqt
