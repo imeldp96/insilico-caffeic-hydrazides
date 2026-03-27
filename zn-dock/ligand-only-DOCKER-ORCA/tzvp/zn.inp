@@ -1,0 +1,6 @@
+! B3LYP def2-TZVP D3BJ CPCM(Water) RIJCOSX AutoAux
+! PrintMOs
+
+* xyz 2 1
+Zn         0.73102        0.91499        0.00000
+*
